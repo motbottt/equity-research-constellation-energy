@@ -1,5 +1,11 @@
 # Constellation Energy Stock Pitch
 
+## Presentation
+
+Click below to view the complete stock pitch.
+
+[Constellation Energy Stock Pitch](Constellation_Energy_Stock_Pitch.pdf)
+
 ## Overview
 
 This repository contains a team equity research presentation analyzing Constellation Energy (NASDAQ: CEG), completed as part of a University of Wisconsin–Madison investment research project.
